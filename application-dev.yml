@@ -39,6 +39,6 @@ spring:
       #authenticationDatabase: NpBlobStorage
       #数据库名称  此项不设置默认为NpBlobStorage
       #database: NpBlobStorage
-foo: foo1
+foo: foo
 democonfigclient:
-  message: hello world
+  message: hello world1
